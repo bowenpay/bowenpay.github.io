@@ -1,11 +1,13 @@
 ---
 layout: page
-title: About
+title: 关于
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+波纹科技是一家致力于通过创新来创造价值的互联网创业公司，成立于2014年的北京。目前，我们正努力使用互联网技术，打破传统积分之间的壁垒，让商户发出的积分可以随时消费、体现、兑换，将传统积分从流通域小，无法变现，浪费闲置严重的“鸡肋”变成有用，易用，好用的“鸡腿”。目前，我们已获得几百万人民币级别的天使融资。
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+我们位于朝阳区国贸附近，办公氛围自由宽松，没有条条框框的限制，我们推崇自由，平等，创新的思想。公司提供无限量的零食饮料，跑步机，各种按摩器，健身器材。
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+如果你是一位想实现自我价值，做一些不会为虚度光阴而悔恨的事，那么请将简历投递到：[hr@bowenpay.com](mailto:https://github.com/jglovier/jekyll-new)，我们期待你的加入。
+
+[查看招聘职位 》](http://www.bowenpay.com/#/joinus)
