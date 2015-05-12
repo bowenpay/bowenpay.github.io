@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "技术新人入职引导"
-date:   2015-05-07 11:20:00
+date:   2015-05-12 11:20:00
 categories: manage
 ---
 
