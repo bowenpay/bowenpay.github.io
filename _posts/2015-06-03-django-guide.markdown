@@ -51,7 +51,28 @@ mkvirtualenv dj1.8
 
 中文版：[The Django Book](http://djangobook.py3k.cn/2.0/chapter01/) 、[Django 中文文档](https://django-chinese-docs.readthedocs.org/en/latest/)
 
-#3. 非常有用的第三方库/应用
+#3. mysql
+
+使用mysql 5.5+版本，以支持utf8mb4，存储emoji字符。
+增加文件：`/etc/mysql/conf.d/utf8mb4.cnf`，内容如下：
+```
+[client]
+default-character-set = utf8mb4
+
+[mysql]
+default-character-set = utf8mb4
+
+[mysqld]
+character-set-client-handshake = FALSE
+character-set-server = utf8mb4
+collation-server = utf8mb4_unicode_ci
+```
+python连接mysql，需要mysql-python库，需要提前安装一些其它库：
+```
+sudo apt-get install python-dev libmysqlclient-dev
+pip install MySQL-python
+```
+#4. 非常有用的第三方库/应用
 
 ##1) django best practice
 
