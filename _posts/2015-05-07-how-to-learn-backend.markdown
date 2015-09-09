@@ -26,3 +26,5 @@ mysql Oracle redis（key-value） mongodb（document-oriented）
 ##4）缓存
 
 ##5）队列
+
+##6）搜索

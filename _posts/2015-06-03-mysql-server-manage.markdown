@@ -39,3 +39,7 @@ Query OK, 0 rows affected (0.00 sec)
 ```
 bind-address = 127.0.0.1
 ```
+
+centos 参考 [Install MySQL on CentOS 7](https://devops.profitbricks.com/tutorials/install-mysql-on-centos-7/)
+
+#4 为了省去dba和运维的工作，最终我们选择了阿里云rds
