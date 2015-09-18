@@ -2,6 +2,7 @@
 layout: post
 title:  "我们怎么估算成本"
 date:   2015-05-08 10:10:00
+author: "易先生个蛋"
 categories: operation
 ---
 

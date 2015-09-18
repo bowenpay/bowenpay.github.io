@@ -2,6 +2,7 @@
 layout: post
 title:  "波纹积分技能表"
 date:   2015-09-08 22:01:00
+author: "易先生个蛋"
 categories: manage
 ---
 受到[《知道创宇研发技能表》](http://blog.knownsec.com/Knownsec_RD_Checklist/)的启发，我觉得每个技术公司都应该维护一份自己的技能表，

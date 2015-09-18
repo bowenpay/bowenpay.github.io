@@ -2,6 +2,7 @@
 layout: post
 title:  "如何快速了解一个行业"
 date:   2015-05-08 10:39:00
+author: "易先生个蛋"
 categories: manage
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title:  "mysql server管理基础"
 date:   2015-06-03 17:18:00
+author: "易先生个蛋"
 categories: tech
 ---
 

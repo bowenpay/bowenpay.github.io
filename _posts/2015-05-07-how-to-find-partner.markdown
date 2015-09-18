@@ -2,6 +2,7 @@
 layout: post
 title:  "创业公司如何招人"
 date:   2015-05-07 13:43:00
+author: "易先生个蛋"
 categories: manage
 ---
 

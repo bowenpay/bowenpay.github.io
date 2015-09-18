@@ -2,6 +2,7 @@
 layout: post
 title:  "django入门"
 date:   2015-06-03 11:48:00
+author: "易先生个蛋"
 categories: manage
 ---
 

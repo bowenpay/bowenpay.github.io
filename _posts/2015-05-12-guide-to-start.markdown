@@ -2,6 +2,7 @@
 layout: post
 title:  "技术新人入职引导"
 date:   2015-05-12 11:20:00
+author: "易先生个蛋"
 categories: manage
 ---
 

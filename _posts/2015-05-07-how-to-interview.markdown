@@ -2,6 +2,7 @@
 layout: post
 title:  "我们如何面试"
 date:   2015-05-07 19:27:00
+author: "易先生个蛋"
 categories: manage
 ---
 

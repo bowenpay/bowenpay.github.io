@@ -2,6 +2,7 @@
 layout: post
 title:  "我们如何协同工作"
 date:   2015-05-07 19:18:00
+author: "易先生个蛋"
 categories: manage
 ---
 

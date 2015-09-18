@@ -2,6 +2,7 @@
 layout: post
 title:  "如何创建一家互联网公司"
 date:   2015-05-07 11:31:00
+author: "易先生个蛋"
 categories: manage
 ---
 
