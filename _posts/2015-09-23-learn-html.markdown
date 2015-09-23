@@ -12,7 +12,7 @@ categories: tech
 
 ##1.标签分类
 
-1. 文档标签：`<html>`、`<head>`、`<body>`、`<title>`、`<meta>`、`<base>`、`<style>`、`<link>`、`<script>`、`<noscript>` **用户名** 。
+1. 文档标签：`<html>`、`<head>`、`<body>`、`<title>`、`<meta>`、`<base>`、`<style>`、`<link>`、`<script>`、`<noscript>` 
 
 2. 框架标签：`<frame>`、`<frameset>`、`<iframe>`、`<noframes>`
 
