@@ -2,7 +2,7 @@
 layout: post
 title:  "如何学习HTML:   2015-09-23 16:51:07
 author: "蓝空鹰翔"
-categories: manage
+categories: tech
 ---
 
 # 什么是HTML？
