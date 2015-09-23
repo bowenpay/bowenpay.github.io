@@ -1,10 +1,11 @@
-﻿---
+---
 layout: post
 title:  "学习HTML"
 date:   2015-09-23 11:33:06
 author: "蓝空鹰翔"
-categories: manage
+categories: tech
 ---
+
 # 什么是HTML？
 超文本标记语言 ，即HTML（Hypertext Markup Language），是用于描述网页文档的一种标记语言。
 
@@ -12,9 +13,9 @@ categories: manage
 
 #1.标签分类
 
-1. 文档标签：<html>、<head>、<body>、<title>、<meta>、<base>、<style>、<link>、<script>、<noscript>
+1. 文档标签：`<html>`、`<head>、<body>、<title>、<meta>、<base>、<style>、<link>、<script>、<noscript>`
 
-2. 框架标签：<frame>、<frameset>、<iframe>、<noframes>
+2. 框架标签：`<frame>`、`<frameset>`、`<iframe>`、`<noframes>`
 
 3. 布局标签：<div>
 
