@@ -1,0 +1,62 @@
+---
+layout: post
+title:  "学习CSS"
+date:   2015-10-26 17:20:00
+author: "易先生个蛋"
+categories: tech
+---
+
+# 什么是CSS？
+前端的开发也是遵循MVC的，M对应HTML，C对应Javascript，V对应CSS，所以CSS主要是负责网页页面展示的。
+
+CSS是Cascading Style Sheets的简称，中文是层叠样式表。
+
+> __CSS的出现解决了样式和内容分离的问题__
+>
+> HTML 标签原本被设计为用于定义文档内容。通过使用 <h1>、<p>、<table> 这样的标签，HTML 的初衷是表达“这是标题”、“这是段落”、“这是表格”之类的信息。同时文档布局由浏览器来完成，而不使用任何的格式化标签。
+>
+> 由于两种主要的浏览器（Netscape 和 Internet Explorer）不断地将新的 HTML 标签和属性（比如字体标签和颜色属性）添加到 HTML 规范中，创建文档内容清晰地独立于文档表现层的站点变得越来越困难。
+>
+> 为了解决这个问题，万维网联盟（W3C），这个非营利的标准化联盟，肩负起了 HTML 标准化的使命，并在 HTML 4.0 之外创造出样式（Style）。
+>
+> 所有的主流浏览器均支持层叠样式表。
+
+# 如何学习
+学习分 __CSS入门__、__CSS基础__、__CSS进阶__、__水平拓展__ 4个阶段。
+
+## 1. CSS入门
+通过 [w3school] 了解CSS的基本使用，能在本地运行起来，看到效果。
+
+## 2. CSS基础
+比较全面的了解CSS，熟悉每一个功能和用法，能手写代码，实现想要的效果。
+
+推荐书籍: [《CSS权威指南》]、[《精通CSS》]
+
+经常上CSS社区，关注一些行业大牛、行业动态、优秀项目，开始能够自学习。
+
+优秀的CSS社区有：[前端乱炖]、[前端观察]
+
+优秀前端框架和项目：Bootstrap、Foundation、Animation.css
+
+## 3. CSS进阶
+前端兼容方案、前端优化、模块化（LESS）、响应式设计
+
+## 4. 水平拓展
+Javascript、http协议、node.js、切图
+
+# CSS大纲
+
+## 1. 选择器
+
+## 2. 布局
+
+## 3. 盒模型
+
+## 4. 响应式设计、CSS3
+
+
+[w3school]:         http://www.w3school.com.cn/css/index.asp
+[《CSS权威指南》]:    http://book.douban.com/subject/2308234/
+[《精通CSS》]:       http://book.douban.com/subject/4736167/
+[前端乱炖]:         http://www.html-js.com/
+[前端观察]:         http://www.qianduan.net/

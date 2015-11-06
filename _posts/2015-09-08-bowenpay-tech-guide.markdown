@@ -103,7 +103,7 @@ categories: manage
 
 * 消息队列
 
-    阿里云MNS/ONS、消息队列（beanstalkd、kfaka）、发布订阅
+    阿里云MNS/ONS、消息队列（beanstalkd、kafka）、发布订阅
 
 * 搜索
 
@@ -157,7 +157,7 @@ categories: manage
 
 * web框架
 
-    tornaod/django/flask
+    tornado/django/flask
 
 * 数据库
 
@@ -196,3 +196,10 @@ categories: manage
 
 ## CTO
 架构、找人、任务调度、对外PK
+
+# 订阅
+互联网的知识更新换代非常快，只有不断的学习才能跟上时代。依据2-8原则，我们获取的信息中，80%都是噪音，所以合理的选择接受信息非常重要。
+下面是推荐订阅的内容：
+* 投资类
+* 技术类
+* 新闻类
