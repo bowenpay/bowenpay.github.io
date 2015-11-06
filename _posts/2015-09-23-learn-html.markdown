@@ -93,7 +93,7 @@ categories: tech
                 <li>梨</li>
         </ul>
 
-1. HTML `<ol>` 标签
+2. HTML `<ol>` 标签
 
     `<ol>` 标签定义有序序列表：
 
@@ -102,7 +102,7 @@ categories: tech
                 <li>第二名</li>
         <ol>
 
-1. HTML `<dl>` 标签
+3. HTML `<dl>` 标签
 
     `<dl>` 标签定义列表（definition list）：
 
@@ -128,3 +128,166 @@ categories: tech
 5. HTML `<small>`标签：呈现小号字体效果。
 
 6. HTML `<i>`标签：显示斜体文本效果。
+
+# 什么是HTML5？
+HTML5 将成为 HTML、XHTML 以及 HTML DOM 的新标准。
+
+HTML5 仍处于完善之中。然而，大部分现代浏览器已经具备了某些 HTML5 支持。
+
+##1.HTML5有什么新特性？
+
+1.用于绘画的 `canvas` 元素
+
+2.用于媒介回放的 `video` 和 `audio` 元素
+
+3.对本地离线存储的更好的支持
+
+4.新的特殊内容元素，比如 `article`、`footer`、`header`、`nav`、`section`
+
+5.新的表单控件，比如 `calendar`、`date`、`time`、`email`、`url`、`search`
+
+##2.HTML5新增标签分类
+
+1.结构标签：`<article>`、`<header>`、`<nav>`、`<section>`、`<aside>`、`<hgroup>`、`<figure>`、`<figcaption>`、`<footer>`、`<dialog>`
+
+2.多媒体交互标签：`<video>`、`<audio>`、`<source>`、`<canvas>`、`<embed>`
+
+3.Web应用标签：`<menu>`、`<menuitem>`、`<command>`、`<meter>`、`<progress>`、`<datalist>`、`<details>`
+
+4.注释标签：`<ruby>`、`<rp>`、`<rt>`
+
+5.其他标签：`<keygen>`、`<mark>`、`<output>`
+
+6.重新定义的HTML标签：`<b>`、`<i>`、`<dd>`、`<dt>`、`<hr>`、`<menu>`、`<small>`、`<strong>`
+
+##3.HTML5结构标签
+
+1.`<article>`标签：标记定义一篇文章
+
+    `<article>` 标签定义文章：
+
+        <article>
+            <h2>上学歌</h2>
+            <p>
+                太阳当空照，<br />
+                花儿对我笑，<br />
+                小鸟说早早早，你为什么背上小书包?<br />
+                我要炸学校老师不知道，一拉线，赶快跑，<br />
+                轰的一声，学校炸没了。<br />
+            </p>
+        </article>
+
+2.`<header>`标签：标记定义一个页面或一个区域的头部
+
+    <header>
+        <p>这是一个header标签</p>
+            <nav>
+                <ul>
+                    <li>首页</li>
+                    <li>起夜</li>
+                    <li>论坛</li>
+                    <li>商城</li>
+                    <li>社区</li>
+                </ul>
+            </nav>
+    </header>
+
+3.`<nav>`标签：标记定义导航链接
+
+4.`<section>`标签：标记定义一个区域
+
+5.`<aside>`标签：标记定义页面内容部分的侧边栏
+
+6.`<hgroup>`标签：标记定义文件中一个区块的相关信息
+
+7.`<figure>`标签：标记定义一组媒体内容以及它们的标题
+
+    `<dialog>` 标签定义对话，比如交谈：
+
+        <figure>
+            <figcaption>UFO</figcaption>
+            <p>不明飞行物 Unknown Flying Object</p>
+        </figure>
+        <figure>
+            <dt>DDS</dt>
+            <dd>大屌丝</dd>
+        </figure>
+
+8.`<figcaption>`标签：标签定义 figure 元素的标题
+
+9.`<footer>`标签：标记定义一个页面或一个区域的底部
+
+10.`<dialog>`标签：标记定义一个对话框(会话框)类似微信
+
+    `<dialog>` 标签定义对话，比如交谈：
+
+        <dialog>
+             <dt>唐僧:悟空，你又调皮了，观音姐姐的月光宝盒怎么能乱扔呢？</dt>
+             <dd>悟空:...(看着)</dd>
+             <dt>唐僧:乱扔是不对的，砸到小朋友怎么办？就算砸不到小朋友，砸到花花草草也是不好的嘛</dt>
+             <dd>悟空:...(纠结)</dd>
+             <dt>唐僧:悟空你想要么？想要你就告诉我呀，你不告诉我怎么知道你想要呢？。。。。</dt>
+             <dd>悟空:我靠!(一棍子抡上去！)</dd>
+        </dialog>
+
+##4.HTML5多媒体交互标签
+
+1.`<video>`标签：标记定义一个视频
+
+2.`<audio>`标签：标记定义音频内容
+
+3.`<source>`标签：标记定义媒体资源
+
+4.`<canvas>` 标签：标记定义图片
+
+5.`<embed>`标签：标记定义外部的可交互的内容或插件，比如flash
+
+##5.HTML5 Web应用标签
+
+1.`<menu>`标签：命令列表
+
+2.`<menuitem>`标签：menu命令列表标签 FF（嵌入系统）
+
+3.`<command>`标签： menu标记定义一个命令按钮
+
+4.`<meter>`标签：状态标签(实时状态显示:气压、气温)
+
+5.`<progress>`标签：状态标签 (任务过程:安装、加载)
+
+6.`<datalist>` 标签：为input标记定义一个下拉列表
+
+7.`<details>` 标签：标记定义一个元素的详细内容
+
+##6.HTML5 Web注释标签
+
+1.`<ruby>`标签：标记定义 注释或音标
+
+2.`<rp>` 标签：告诉那些不支持 Ruby元素的浏览器如何去显示
+
+3.`<rt>` 标签：标记定义对ruby的注释内容文本
+
+##7.HTML5其他标签
+
+1.`<keygen>`标签：标记定义表单里一个生成的键值(加密信息传送)
+
+2.`<mark>`标签：标记定义有标记的文本 (黄色选中状态)
+
+3.`<output>` 标签：标记定义一些输出类型,计算表单结果配合oninput事
+
+##8.HTML5重新定义的HTML标签
+
+1.`<b>`标签：代表内联文本，通常是粗体，没有传递表示重要的意思
+
+2.`<i>`标签：代表内联文本，通常是斜体，没有传递表示重要的意思
+
+3.`<dd>`标签：可以同details与figure一同使用，定义包含文本，dialog也可用
+
+4.`<dt>`标签：可以同details与figure一同使用，汇总细节，dialog也可用
+
+5.`<hr>`标签：表示主题结束，而不是水平线，虽然显示相同
+
+6.`<menu>`标签：重新定义用户界面的菜单，配合commond或者menuitem使用
+
+7.`<small>`标签：表示小字体，例如打印注释或者法律条款
+
+8.`<strong>`标签：表示重要性而不是强调符号
